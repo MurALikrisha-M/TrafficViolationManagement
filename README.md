@@ -1,7 +1,7 @@
-# 🚦 Traffic Police Management System
+# 🚦 Traffic Violation Management System
 
 ## 📌 Overview  
-The **Traffic Police Management System** is a mini-project designed to help law enforcement efficiently manage traffic violations. It automates ticket issuance, maintains records, and tracks fine payments.
+The **Traffic Violation Management System** is a mini-project designed to help law enforcement efficiently manage traffic violations. It automates ticket issuance, maintains records, and tracks fine payments.
 
 ---
 
